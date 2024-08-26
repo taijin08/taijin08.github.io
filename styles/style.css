@@ -1,0 +1,76 @@
+/* p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+} */
+
+li, h1 {
+    color: blue;
+}
+
+/* specify fonts: */
+html {
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    /* need to be linked in .html <head> */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+/* selector { (declaration) 
+    property: property value; 
+} */
+
+/* selector is the HTML element name at the start of the rule set */
+/* different tyoes of selectors:
+    - ID selector: #my-id -> <p id="~"> or <a id="~">
+    - class selector: .my-class -> <p class="~"> or <a class="~">
+    - Attribute selector: img[src] -> <img src="~">
+    - Pseudo-class selector: a:hover -> <a> only when mouse pointed over the link
+ */
+
+html {
+    background-color: cadetblue;
+}
+
+body {
+    width: 700px;
+    margin: 20px auto; 
+    /* 1st value specify the element's top and bottom side,
+     2nd value specify the element's left and right side*/
+    /* auto can devide the available horizontal space evenly */
+    background-color: chartreuse;
+    padding: 0 20px 20px 20px;
+    /* top, right, bottom, left */
+    border: 5px solid #43341e;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+img {
+    display: block;
+    /* has to have a block like behavior todo the centering */
+    margin: 0 auto;
+}
+  
+h2 {
+    margin: 10px;
+    font-size: 40px;
+    text-align: center;
+    
+}
