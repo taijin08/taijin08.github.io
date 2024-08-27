@@ -1,6 +1,10 @@
 HTML Practice:
-[FreakElephant](online-test.html)
+[FreakElephant](HTML-Practice/No1-FreakElephant/online-test.html)
 
 Bathtub Vortex Visualiztion
-[Surface Fluctuation](fluctuation.html)
-[](vortexfield
+[Surface Fluctuation](MathBox-Practice/BathtubVortex/fluctuation.html)
+[Vortex Field](MathBox-Practice/BathtubVortex/fluctuation.html)
+
+MathBox Practice
+[Plotting Bessel Function](MathBox-Practice/Bessel/empty.html)
+[Helitorus Study](MathBox-Practice/helitorus/helitorus.html)
