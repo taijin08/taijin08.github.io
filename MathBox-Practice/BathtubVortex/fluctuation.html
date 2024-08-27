@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>MathBox - Helitoroidal Surface</title>
+    <title>MathBox - Air Core Fluctuation</title>
     <script
       type="text/javascript"
       src="https://cdn.jsdelivr.net/npm/three@0.137.0/build/three.min.js"
@@ -140,7 +140,7 @@
         rangeY: [-4, 4],
         expr: function (emit, θ, z, i, j, t) {
           //var f = surface(θ,z);
-          var m = tbn(θ,z,t);
+          var m = tbn(θ,z,10*t);
 
           vs.set(0,0,0);
           vs.applyMatrix4(m);
