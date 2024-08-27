@@ -6,7 +6,7 @@ Bathtub Vortex Visualiztion
 
 [Surface Fluctuation](MathBox-Practice/BathtubVortex/fluctuation.html) 
 
-[Vortex Field](MathBox-Practice/BathtubVortex/fluctuation.html) 
+[Vortex Field](MathBox-Practice/BathtubVortex/vortexfield.html) 
 
 
 MathBox Practice 
