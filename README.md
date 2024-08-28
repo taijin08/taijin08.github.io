@@ -8,7 +8,7 @@ Bathtub Vortex Visualiztion
 
 [Surface Fluctuation](MathBox-Practice/BathtubVortex/fluctuation.html) 
 
-[Surface Fluctuation and meandering](MathBox-Practice/BathtubVortex/fluctuation-and-meandering.html) 
+[Surface Fluctuation and meandering](MathBox-Practice/BathtubVortex/fluctuation-and-meander.html) 
 
 [Vortex Field](MathBox-Practice/BathtubVortex/vortexfield.html) 
 
